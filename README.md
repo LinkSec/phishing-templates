@@ -1,5 +1,5 @@
 # Phishing Templates
-These [phishing emails](https://linksec.io/phishing-simulator) are used by LinkSec for ethical cybersecurity awareness training.
+A collection of 45 [phishing emails](https://linksec.io/phishing-simulator) used by LinkSec for ethical cybersecurity awareness training.
 
 ![alt text](demo-zoom.png)
 
